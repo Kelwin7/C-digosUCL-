@@ -1,0 +1,3 @@
+horamês = float (input ("Digite quantas horas trabalhadas por Mês: ")) 
+hora = float (input ("Digite quantos você ganha por hora: "))
+print(" Seu salario é", horamês * hora)
