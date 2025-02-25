@@ -1,0 +1,10 @@
+numero1 = int (input("Digite o Primeiro numero inteiro: "))
+numero2 = int (input("Digite o Segundo numero inteiro: "))
+numero3 = float (input("Digite o Terceiro numero Real: "))
+
+um = numero2 /2 +numero1 * 2 
+print ("o produto do dobro do primeirro com metade do segundo", um)
+dois = numero1 * 3 + numero3
+print ("a soma do triplo do primeiro com o terceiro", dois)
+tres = numero3 ** 2
+print ("o terceiro elevado ao cubo", tres)
